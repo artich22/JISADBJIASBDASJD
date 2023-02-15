@@ -27,6 +27,7 @@ public class Ejemplo {
 		System.out.println("Potencia de a elevado a b="+potEntera);
 		System.out.println("Potencia de a elevado a b="+potencia);
 		System.out.println("Factorial de "+f);
+		
 	
 	}
 	static double factorial (int num) {
