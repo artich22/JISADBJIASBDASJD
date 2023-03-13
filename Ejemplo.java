@@ -19,14 +19,14 @@ public class Ejemplo {
 		potencia=Math.pow(a, b);
 		potEntera=(int)Math.pow(a, b);
 		
-		System.out.println("suma="+suma);
-		System.out.println("resta="+resta);
+		System.out.println("suma o no="+suma);
+		System.out.println("restame o no="+resta);
 		System.out.println("producto="+prod);
-		System.out.println("cociente division entera="+divEntera+" y resto="+resto);
+		System.out.println("cocienasdasdasdasdasdtezxczxzczxczxczx division entera="+divEntera+" y resto="+resto);
 		System.out.println("cociente division real="+divReal);
-		System.out.println("Potencia de a elevado a b="+potEntera);
+		System.out.println("Potencasdasasdasdasddadasdasia de a elevado a b="+potEntera);
 		System.out.println("Potencia de a elevado a b="+potencia);
-		System.out.println("Factorial de "+f);
+		System.out.println("Factorialasdasdasdas de esta "+f);
 		
 	
 	}
