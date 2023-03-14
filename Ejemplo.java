@@ -25,9 +25,9 @@ public class Ejemplo {
 		System.out.println("cocientedivision entera="+divEntera+" y resto="+resto);
 		System.out.println("cociente division real="+divReal);
 		System.out.println("Potencasdasasdasdasddadasdasia de a elevado a b="+potEntera);
-		System.out.println("Potencia de a elevado a b="+potencia);
+		System.out.println("Potencia de a eaasdasdasdlevado a b="+potencia);
 		System.out.println("Factorialasdasdasdas de esta "+f);
-		
+		/* wtf232323*/
 	
 	}
 	static double factorial (int num) {
