@@ -27,7 +27,7 @@ public class Ejemplo {
 		System.out.println("Potencasdasasdasdasddadasdasia de a elevado a b="+potEntera);
 		System.out.println("Potencia de a eaasdasdasdlevado a b="+potencia);
 		System.out.println("Factorialasdasdasdas de esta "+f);
-		System.out.println("Rama2");
+		System.out.println("Prueba Final");
 		/* wtf232323*/
 	
 	}
