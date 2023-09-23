@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AJEDRECISMO</title>
+    <link rel="stylesheet" href="./Css.css">
+    <link rel="shortcut icon" href="rey2.ico" />
+</head>
+<body>
+    <header class="head">
+        <div class="peon">
+            <div class=".pattern-checks-md bg-primary text-white"><img src="./peon.webp" width="70px" height="66px"></div>
+        </div>
+        <div class="Titulo"><a href="./Principal.html"><h1>AJEDRECISMO</h1></a></div>
+        <div class="subpages">
+        <a href="https://www.chess.com/home">Jugar</a>
+        <a href="./Tutoriales.html">Tutoriales</a>
+        <a href="./Contacto.html">Contacto</a>
+        </div>
+    </header>
+    <main class="main2">
+        <h1 class="cabeza2"> CONTACTO</h1>
+        <div class="formulario" style="height: 100%;">
+        <form method="post" action="enviar.php">
+            <div class="label"><label for="nombre">Nombre:</label></div><br>
+            <input type="text" id="nombre" name="nombre" required>
+            <br><br>
+            <div class="label"><label for="apellidos">Apellidos:</label></div><br>
+        <input type="text" id="apellidos" name="apellidos" required>
+            <br><br>
+                <div class="label"><label for="email">Correo electrónico:</label></div><br>
+        <input type="email" id="email" name="email" required>
+            <br><br>
+        <div class="label"><label for="mensaje">Mensaje:</label></div>
+            <br>
+        <textarea id="mensaje" name="mensaje" rows="4" cols="50" required>Escribe tu comentario</textarea>
+        <br><br>
+        <input type="submit" value="Enviar">
+        </form>
+        </div>
+    </main>
+</body>
+</html>
